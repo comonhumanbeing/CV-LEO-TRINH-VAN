@@ -16,6 +16,12 @@
   }
 }
 
+/* Cible n'importe quel élément <a> lorsque  */
+/* celui-ci est survolé */
+.mail-link:hover {
+  background-color: gold;
+}
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
